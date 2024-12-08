@@ -17,9 +17,8 @@ st.title("Diabetes Prediction Analysis with Linear Regression")
 
 st.header("Overview")
 st.write("""
-This analysis aims to predict the progression of diabetes using various health metrics.
-We are using the diabetes dataset from sklearn, which contains 10 features related to patient demographics and health data. 
-We are going to use linear regression to model the relationship between these features and the target variable.
+The purpose of this analysis is to forecast the progress of diabetes using a number of health indicators. Ten features pertaining to patient demographics and health information are included in the diabetes dataset from Sklearn, 
+which we are implementing. To model how these factors relate to the target variable, we will employ linear regression.
 """)
 
 st.subheader("Dataset Structure")
